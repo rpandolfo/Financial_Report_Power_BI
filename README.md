@@ -4,7 +4,7 @@ This project utilizes the *Financial Sample.xlsx* dataset to analyze sales and p
 ---
 
 ## 📁 Dataset Fields
-The dataset includes key information such as: Order ID, Order Date, Customer Name, City, Country, Region, Segment, Ship Date, Ship Mode, and State.  The data was cleaned in Excel prior to being visualized in Power BI.
+The dataset includes key information such as: Segment, Country,	 Product, 	 Discount Band, 	Units Sold,	 Manufacturing Price, 	 Sale Price, 	 Gross Sales, 	 Discounts, 	  Sales,	 COGS, 	 Profit, 	Date,	Month Number,	 Month Name, 	Year.
 
 ---
 
