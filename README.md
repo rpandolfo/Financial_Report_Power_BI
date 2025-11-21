@@ -25,7 +25,7 @@ An interactive map visual highlights profitability across global regions, helpin
 
 ---
 
-## 💡 Skills Demonstrated (Power BI Focus)
+## 💡 Skills Demonstrated 
 - **Data Modeling:** Building and managing relationships across tables  
 - **Visualization Design:** Creating effective charts, maps, and layout structures  
 - **Dashboard Interactivity:** Using slicers, filters, and consistent formatting to enhance user experience  
